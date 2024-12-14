@@ -20,3 +20,22 @@
     display: flex;
     gap: 20px;
 }
+
+/* Styling the second section of the page */
+.second-section {
+    display: flex;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    justify-content: space-evenly;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 50px;
+}
+/* REVISIT THIS - try and get this alligned better ABOVE and section two
+
+/* Styling the sign up button */
+.sign-up {
+    background-color: #3882F6;
+    color:#F9FAF8;
+}
+
