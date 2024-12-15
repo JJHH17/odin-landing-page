@@ -95,3 +95,38 @@
     font-weight: bold;
     font-size: 14px;
 }
+
+.fifth-section {
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    justify-content: center;
+}
+
+.blue-area {
+    display: flex;
+    background-color: #3882F6; 
+    padding: 40px;
+    margin: 40px;
+    border-radius: 10px;
+    gap: 25px;
+}
+
+.white-text {
+    color: white;
+}
+
+.sign-up-text {
+    font-size: 17px;
+}
+
+.sign-up-description {
+    font-size: 14px;
+}
+
+.sign-up2 {
+    background-color: #3882F6;
+    border-color: white;
+    color: white;
+    border-radius: 7px;
+}
