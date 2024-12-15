@@ -32,10 +32,17 @@
     padding-bottom: 50px;
     justify-content: space-around;
 }
-/* REVISIT THIS - try and get this alligned better ABOVE and section two */
 
 .text-container {
     width: 300px;
+}
+
+.website-awesome {
+    margin-bottom: 5px;
+}
+
+.website-awesome-sub {
+    margin-bottom: 10px;
 }
 
 /* Styling the sign up button */
