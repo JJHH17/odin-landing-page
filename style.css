@@ -44,3 +44,28 @@
     color:#F9FAF8;
 }
 
+/* Adding styling to third section of page */
+.third-title {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+.third-section {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.images-of-dogs {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.text-of-dogs {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
