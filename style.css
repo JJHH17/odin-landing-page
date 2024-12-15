@@ -71,3 +71,27 @@
     justify-content: space-evenly;
     margin-bottom: 50px;
 }
+
+.forth-section {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 300px; 
+    padding-right: 300px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    font-size: 17px;
+    font-style: italic;
+}
+
+.quote-name {
+    align-self: flex-end;
+    font-weight: bold;
+    font-size: 14px;
+}
