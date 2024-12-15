@@ -30,8 +30,13 @@
     margin-left: 100px;
     margin-right: 100px;
     padding-bottom: 50px;
+    justify-content: space-around;
 }
-/* REVISIT THIS - try and get this alligned better ABOVE and section two
+/* REVISIT THIS - try and get this alligned better ABOVE and section two */
+
+.text-container {
+    width: 300px;
+}
 
 /* Styling the sign up button */
 .sign-up {
