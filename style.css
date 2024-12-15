@@ -49,6 +49,7 @@
     text-align: center;
     margin-top: 25px;
     margin-bottom: 15px;
+    font-size: 20px;
 }
 
 .third-section {
@@ -68,4 +69,5 @@
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    margin-bottom: 50px;
 }
